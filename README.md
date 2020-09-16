@@ -10,6 +10,14 @@ So, I created player profile using deliveries information of season 2008 upto se
 
 **End Result** : My hypothesis doesnt hold true when looked for 5 matches. So our hypothesis that the winning team prediction depends on player profile cannot be used to predict 2020 winners
 
+
+**Key Points from the analysis**
+
+1) New players - there wont be a profile of a player if he didnot play in any season
+
+2) Players whose dismissal is equal to 0 i.e who where not out in the game will have infinite in 'Calc' column.When further looked into such players profile they turn out to be bowlers or batsman whose batting order is 10th or 11th position.So we excluded such players while calculating the batting order of a team
+
+
 Dataset :https://www.kaggle.com/saiharsha1234/ipl-prediction-1st-hypothesis . Tools used : Python Libraries used : pandas, numpy
 
 ## Batting Data Dictionary
