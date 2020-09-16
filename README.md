@@ -18,7 +18,9 @@ So, I created player profile using deliveries information of season 2008 upto se
 2) Players whose dismissal is equal to 0 i.e who where not out in the game will have infinite in 'Calc' column.When further looked into such players profile they turn out to be bowlers or batsman whose batting order is 10th or 11th position.So we excluded such players while calculating the batting order of a team
 
 
-Dataset :https://www.kaggle.com/saiharsha1234/ipl-prediction-1st-hypothesis . Tools used : Python Libraries used : pandas, numpy
+Kaggle Notebook Link :https://www.kaggle.com/saiharsha1234/ipl-prediction-1st-hypothesis . 
+
+Tools used : Python Libraries used : pandas, numpy
 
 ## Batting Data Dictionary
 
